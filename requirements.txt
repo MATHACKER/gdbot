@@ -1,6 +1,3 @@
 vkbottle
 pillow
-textwrap
-re
 pickle
-json

@@ -1,6 +1,5 @@
 vkbottle
 pillow
-random
 time
 textwrap
 re

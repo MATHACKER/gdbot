@@ -1,6 +1,5 @@
 vkbottle
 pillow
-time
 textwrap
 re
 pickle
